@@ -3,8 +3,8 @@
 ## Clone the Project
 
 ```bash
-git clone https://github.com/data-guru0/LLMOPS-2-TESTING-MEDICAL.git
-cd LLMOPS-2-TESTING-MEDICAL
+git clone https://github.com/dreat42/RAG-Medical-Chatbot.git
+cd RAG-Medical-Chatbot
 ```
 
 ## Create a Virtual Environment (Windows)
@@ -329,3 +329,4 @@ If all stages succeed (Checkout → Build → Trivy Scan → Push to ECR → Dep
 🎉 **CI/CD Deployment to AWS App Runner is complete!**
 
 ✅ Your app is now live and running on AWS 🚀
+
